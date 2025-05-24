@@ -12,7 +12,7 @@
 1. First ordered list item
 2. Another item
 3. Actual numbers don't matter, just that it's a number
-Ordered sub-list
+* Ordered sub-list
 =======
 1. And another item.
 
@@ -56,10 +56,19 @@ for s in range (10)
 
   return s
 ```
+```C++
+#include <iostream>
+using namespace std;
 
-s = "Python syntax highlighting"
-print s
+int main() {
+    for (int i = 0; i < 10; i++) {
+        cout << "Hell Nah!";
+        cout << "\n";
+    }
+    return 0;
+}
 
+```
 This is a shiny glory[^1]
 
 [^1]: My reference[Here]
