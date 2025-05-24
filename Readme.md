@@ -43,7 +43,7 @@ Second line.
 
 [Number a reference][1]
 
-[1]: https:/www.google.com "Google"
+[1]: https://www.google.com "Google"
 
 or use [link text]
 
