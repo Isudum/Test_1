@@ -42,3 +42,8 @@ Second line.
 or use [link text]
 
 [link text]: https:/www.google.com "Google"
+
+Inline-style
+![alt text][chicken]
+
+[chicken]: https://github.com/Isudum/Test_1/blob/master/Image/Chicken_image.png
