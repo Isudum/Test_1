@@ -48,5 +48,5 @@ Inline-style
 
 [chicken]: https://github.com/Isudum/Test_1/blob/master/Image/Chicken_image.png
 
-<img src="https://github.com/Isudum/Test_1/blob/master/Image/Chicken_image.png" alt="Chicken" width="300">
+A chicken for reference: <img src="https://github.com/Isudum/Test_1/blob/master/Image/Chicken_image.png" alt="Chicken" width="200">
 
