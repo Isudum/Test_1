@@ -47,3 +47,6 @@ Inline-style
 ![alt text][chicken]
 
 [chicken]: https://github.com/Isudum/Test_1/blob/master/Image/Chicken_image.png
+
+<img src="https://github.com/Isudum/Test_1/blob/master/Image/Chicken_image.png" alt="Chicken" width="300">
+
