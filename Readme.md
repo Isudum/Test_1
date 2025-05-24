@@ -43,13 +43,17 @@ or use [link text]
 
 [link text]: https:/www.google.com "Google"
 
-Inline-style
-![alt text][chicken]
 
 Inline-style:
 ![alt text](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXphNXlxbGQ2NzY4MjF5cHE0YWUycmxrMmVrMmhpdzg3dG5rZWozOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ju7l5y9osyymQ/giphy.gif)
 
-[chicken]: https://github.com/Isudum/Test_1/blob/master/Image/Chicken_image.png
+'''python
+  def useful_func():
+    print("HEll nah")
+'''
+
+
+
 
 A chicken for reference: <img src="https://github.com/Isudum/Test_1/blob/master/Image/Chicken_image.png" alt="Chicken" width="200">
 
