@@ -28,3 +28,17 @@ Second line.
 * Unordered list can use asterisks
 - Or minuses
 + Or pluses
+
+[Inline link 1](https://www.google.com)
+
+[Inline link 2 with with title](https://www.google.com "Google Homepage")
+
+[Reference to file](https://github.com/Isudum/Test_1/blob/master/HelloWorld.py)
+
+[Number a reference][1]
+
+[1]: https:/www.google.com "Google"
+
+or use [link text]
+
+[link text]: https:/www.google.com "Google"
