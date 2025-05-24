@@ -53,12 +53,14 @@ def useful_func():
 
 for s in range (10)
   print (s)
+
+  return s
 ```
 
 s = "Python syntax highlighting"
 print s
 
-This the a shiny glory[^1]
+This is a shiny glory[^1]
 
 [^1]: My reference[Here]
 
@@ -66,4 +68,12 @@ This the a shiny glory[^1]
 
 
 A chicken for reference: <img src="https://github.com/Isudum/Test_1/blob/master/Image/Chicken_image.png" alt="Chicken" width="200">
+
+|Choic\Type| 1 | 2 | 3 | 4 |
+|-------|------|----|---|-----|
+|1| 0|0|0|0|
+|2| 0|0|0|1|
+|3| 0|0|1|0|
+|4| 0|0|1|1|
+
 
