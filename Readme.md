@@ -34,6 +34,6 @@ pytest test_course_info.py
 Thank you
 <img src="https://media.tenor.com/Rq4Oy8CarcgAAAAd/thank-you-thank-you-thanks.gif" width="200"/>[^1]
 
-[^1]:https://vamosarema.com/
+[^1]: [Credits to](https://vamosarema.com/ "vamosarema")
 
 
